@@ -1,0 +1,14 @@
+{
+  "name": "devnull-ir/Routes-laravel",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "HO",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
